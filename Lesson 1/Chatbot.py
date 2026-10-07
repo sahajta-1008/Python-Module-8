@@ -1,0 +1,5 @@
+print("Hello I am your Chatbot")
+name=input("What is your name? ")
+print("How old are you?")
+age=int(input("How old are you? "))
+print("Wow!",age,"is very old")
